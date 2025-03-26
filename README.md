@@ -1,2 +1,2 @@
 # AWS-Projects
-Document knowledge acquired in cloud computing with real-time projects 
+Documenting knowledge acquired in cloud computing with real-time projects 
