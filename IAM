@@ -1,3 +1,0 @@
-Used the IAM services to create a user, group, role and assign a policy on the AWS platform
-git reset --hard HEAD~1
-git push --force
